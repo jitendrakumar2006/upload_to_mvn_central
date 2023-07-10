@@ -4,7 +4,7 @@
     <groupId>io.github.jitendrakumar2006.automaticrelease</groupId>
     <artifactId>upload_to_mvn_central</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Upload to maven central testing</description>
     <url>https://github.com/jitendrakumar2006/upload_to_mvn_central</url>
@@ -81,7 +81,7 @@
         <url>https://github.com/jitendrakumar2006/upload_to_mvn_central</url>
         <connection>scm:git:https://github.com/jitendrakumar2006/upload_to_mvn_central.git</connection>
         <developerConnection>scm:git:https://github.com/jitendrakumar2006/upload_to_mvn_central.git</developerConnection>
-        <tag>0.1.9</tag>
+        <tag>1.0.2</tag>
     </scm>
     <profiles>
         <profile>
